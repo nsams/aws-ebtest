@@ -1,0 +1,10 @@
+{
+    "require": {
+        "koala-framework/composer-extra-assets": "1.0.x-dev"
+    },
+    "extra": {
+        "require-bower": {
+             "jquery": "*"
+         }
+    }
+}
