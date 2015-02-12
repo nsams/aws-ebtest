@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/koala-framework/composer-extra-assets.git",
-                "reference": "37ed41b686648bd631003b4bcaa34db9c988c13a"
+                "reference": "a60ddcd2980cde8edc312760602a492da0d379e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/koala-framework/composer-extra-assets/zipball/37ed41b686648bd631003b4bcaa34db9c988c13a",
-                "reference": "37ed41b686648bd631003b4bcaa34db9c988c13a",
+                "url": "https://api.github.com/repos/koala-framework/composer-extra-assets/zipball/a60ddcd2980cde8edc312760602a492da0d379e0",
+                "reference": "a60ddcd2980cde8edc312760602a492da0d379e0",
                 "shasum": ""
             },
             "require": {
@@ -41,7 +41,7 @@
             ],
             "description": "Composer Plugin for installing Assets using native npm/bower",
             "homepage": "https://github.com/koala-framework/composer-extra-assets",
-            "time": "2015-02-12 19:56:27"
+            "time": "2015-02-12 20:02:31"
         }
     ],
     "packages-dev": [],
